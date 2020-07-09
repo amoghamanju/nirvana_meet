@@ -13,7 +13,7 @@
         "footerText": "Dialing out is disabled.",
         "googleEmail": "Google Email",
         "inviteMoreHeader": "You are the only one in the meeting",
-        "inviteMoreMailSubject": "Join {{appName}} meeting",
+        "inviteMoreMailSubject": "Join Nirvana Meet meeting",
         "inviteMorePrompt": "Invite more people",
         "linkCopied": "Link copied to clipboard",
         "loading": "Searching for people and phone numbers",
@@ -134,18 +134,18 @@
         "yesterday": "Yesterday"
     },
     "deepLinking": {
-        "appNotInstalled": "You need the {{app}} mobile app to join this meeting on your phone.",
-        "description": "Nothing happened? We tried launching your meeting in the {{app}} desktop app. Try again or launch it in the {{app}} web app.",
+        "appNotInstalled": "You need the Nirvana Meet mobile app to join this meeting on your phone.",
+        "description": "Nothing happened? We tried launching your meeting in the Nirvana Meet desktop app. Try again or launch it in the Nirvana Meet web app.",
         "descriptionWithoutWeb": "Nothing happened? We tried launching your meeting in the {{app}} desktop app.",
         "downloadApp": "Download the app",
         "ifDoNotHaveApp": "If you don't have the app yet:",
         "ifHaveApp": "If you already have the app:",
         "joinInApp": "Join this meeting using the app",
         "launchWebButton": "Launch in web",
-        "title": "Launching your meeting in {{app}}...",
+        "title": "Launching your meeting in Nirvana Meet...",
         "tryAgainButton": "Try again in desktop"
     },
-    "defaultLink": "e.g. {{url}}",
+    "defaultLink": "e.g. https://niladvantage.com/",
     "defaultNickname": "ex. Jane Pink",
     "deviceError": {
         "cameraError": "Failed to access your camera",
@@ -829,7 +829,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. Nirvana Meet is a fully encrypted,  video conferencing solution that you can use all day, every day, for free — with no account needed.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -854,7 +854,7 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "Welcome to Nirvana Meet"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",

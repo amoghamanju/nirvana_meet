@@ -74,7 +74,8 @@ deploy-rnnoise-binary:
 
 deploy-css:
 	$(NODE_SASS) $(STYLES_MAIN) $(STYLES_BUNDLE) && \
-	$(CLEANCSS) $(STYLES_BUNDLE) > $(STYLES_DESTINATION) ; \
+	#$(CLEANCSS) $(STYLES_BUNDLE) > $(STYLES_DESTINATION) ; \
+	#$(STYLES_BUNDLE) > $(STYLES_DESTINATION) ; \
 	rm $(STYLES_BUNDLE)
 
 deploy-local:

@@ -1,6 +1,6 @@
 .audio-preview {
     &-content {
-        background: #2A3A4B;
+        background: #322b4b;
         font-size: 15px;
         line-height: 24px;
         max-height: 456px;
@@ -14,7 +14,7 @@
         padding: 16px;
 
         &-icon {
-            color: #A4B8D1;
+            color: #afa4d1;
             display: inline-block;
         }
 
@@ -33,7 +33,7 @@
         margin-left: 48px;
 
         &--selected {
-            background: #1C2025;
+            background: #1f1c25;
             cursor: initial;
             margin-left: 0;
             padding-left: 21px;
@@ -56,7 +56,7 @@
 
         &:hover {
             .audio-preview-entry {
-                background: #3F4E5E;
+                background: #443f5e;
                 margin-left: 0;
                 padding-left: 48px;
 
@@ -84,7 +84,7 @@
 
         &:hover {
             .audio-preview-entry {
-                background: #3F4E5E;
+                background: #443f5e;
                 margin-left: 0;
                 padding-left: 48px;
 
@@ -105,7 +105,7 @@
         width: 14px;
 
         & svg {
-            fill: #1C2025;
+            fill: #1f1c25;
         }
 
         &--check {
@@ -124,9 +124,9 @@
     &-test-button {
         display: none;
         background: #FFF;
-        border: 1px solid #D1DBE8;
+        border: 1px solid #dbd1e8;
         border-radius: 3px;
-        color: #1C2025;
+        color: #1f1c25;
         cursor: pointer;
         font-weight: 600;
         font-size: 15px;

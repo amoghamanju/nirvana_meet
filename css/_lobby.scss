@@ -103,13 +103,13 @@
     input {
         align-self: stretch;
         background-color: transparent;
-        border: 1px solid #B8C7E0;
+        border: 1px solid #C2B8E0;
         border-radius: 4px;
         color: white;
         padding: 12px 8px;
 
         &:focus {
-            border-color: rgb(3, 118, 218);
+            border-color: rgb(103, 3, 218);
         }
     }
 
@@ -137,7 +137,7 @@
         }
 
         &.primary {
-            background-color: rgb(3, 118, 218);
+            background-color: rgb(103, 3, 218);
             border-width: 0;
         }
     }
